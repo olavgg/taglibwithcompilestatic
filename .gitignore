@@ -14,7 +14,6 @@ target
 .idea
 *.iml
 #grails-app/conf/DataSource.groovy
-application.properties
 *.log
 logs
 .gradle
